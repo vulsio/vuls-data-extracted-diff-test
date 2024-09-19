@@ -1,11 +1,5 @@
 {
     "id": "test",
     "name": "TEST",
-    "raw": [
-        {
-            "url": "git://127.0.0.1/vuls-data-raw-diff-test",
-            "commit": "bde914b7ed12c210437955cc4a49f94f29b0f96d",
-            "date": "2024-09-06T00:34:31Z"
-        }
-    ]
+    "raw": []
 }
